@@ -1,0 +1,5 @@
+{
+    "chromeDriverPath" : "C:\\Test Automation\\ChromeDriver\\chromedriver-win64-v123\\chromedriver.exe",
+    "firefoxDriverPath" : "C:\\Test Automation\\FirefoxDriver\\geckodriver.exe",
+    "firefoxBinaryPath" : "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+}
